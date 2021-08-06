@@ -8,7 +8,7 @@ Part 2 of the modern bootcamp course, switching from classroom style to applied 
 
 ## Goals of this project
 Create a msg.
-Msg converts to a link that can be shared to a friend and is needed to Upon visit of the link we can read the msg.
+Msg converts to a link - using Base64 & ASCII character codes - that can be shared to a friend and is needed to Upon visit of the link we can read the msg.
 
 
 [MDN JS Web Docs - URL](https://developer.mozilla.org/en-US/docs/Web/javascript)
